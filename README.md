@@ -1,3 +1,35 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project Readme
+title | project
+----- | ---- |
+Times Munch App | Project 3
+# Times Munch
 
-> Make sure to edit this file. You are required to provide a readme file describing what the app does, and any bugs that may exist!
+## Overview
+​
+Times Munch app allows users to read news based on topics that interest them from the NYTimes.<br>
+​
+Users can follow/save articles, share articles via FaceBook and search for articles.<br>
+​
+​
+## Screenshots
+​
+A portrait screenshot of how the app looks in the screen to select topics<br>
+<img src="screenshots/1.png" height="400px" />
+
+---
+A portrait screenshot of the list of articles that the user can choose to read<br>
+<img src="screenshots/2.png" height="400px" />
+
+---
+
+A portrait screenshot of the full article content with the Facebook share button and Follow button<br>
+<img src="screenshots/3.png" height="400px" />
+
+---
+A portrait screenshot of the articles that are being followed/saved<br>
+<img src="screenshots/4.png" height="400px" />
+
+---
+A portrait screenshot of screen when you click the FaceBook share button<br>
+<img src="screenshots/5.png" height="400px" />
+​
+# Enjoy :)
